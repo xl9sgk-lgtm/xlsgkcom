@@ -87,8 +87,6 @@ def update_readme(news):
 
 - {item['title']}
 
-  来源：
-  {item['link']}
 
 
 """
