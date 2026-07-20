@@ -44,9 +44,39 @@
 * <a href="https://sites.google.com/view/xlsgkcomxueji" target="_blank">查学籍信息</a>
 * <a href="https://xlsgk.com" target="_blank">社工库怎么用？最新免费Telegram社工库教程</a>
 
-<!-- QUOTE-START -->
-> 魔法的光辉……为何在我最需要它的时候……消失了…… —— 彼岸幻梦-晨曦
 
-更新时间：2026-07-20 10:39:01 UTC
+
+<!-- QUOTE-START -->
+
+## 🔐 今日隐私与网络安全动态
+
+
+更新时间：2026-07-20 16:17:00 UTC
+
+
+
+
+- HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
+
+  来源：
+  https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html
+
+
+
+
+- ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
+
+  来源：
+  https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html
+
+
+
+
+- Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
+
+  来源：
+  https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html
+
+
 <!-- QUOTE-END -->
 
