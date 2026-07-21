@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-21 01:13:02
+2026-07-21 12:11:06
 
+
+
+### FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware
+
+
+
+---
+
+
+### Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign
+
+
+
+---
 
 
 ### HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050
-
-
-
----
-
-
-### ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More
-
-
-
----
-
-
-### Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine
 
 
 
