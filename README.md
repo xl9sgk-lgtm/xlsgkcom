@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-22 12:12:29
+2026-07-23 12:10:18
 
 
 
-### Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs
-
-
-
----
-
-
-### AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code
+### GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
 
 
 
 ---
 
 
-### Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities
+### Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
+
+
+
+---
+
+
+### Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
 
 
 
