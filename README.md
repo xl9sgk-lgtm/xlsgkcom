@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-23 12:10:18
+2026-07-24 12:08:53
 
 
 
-### GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier
-
-
-
----
-
-
-### Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs
+### Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes
 
 
 
 ---
 
 
-### Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data
+### ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories
+
+
+
+---
+
+
+### Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files
 
 
 
