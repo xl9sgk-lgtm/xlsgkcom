@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-24 12:08:53
+2026-07-25 11:58:08
 
 
 
-### Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes
-
-
-
----
-
-
-### ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories
+### BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
 
 
 
 ---
 
 
-### Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files
+### Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
+
+
+
+---
+
+
+### ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link
 
 
 
