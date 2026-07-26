@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-25 11:58:08
+2026-07-26 12:21:59
 
 
 
-### BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery
-
-
-
----
-
-
-### Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller
+### Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable
 
 
 
 ---
 
 
-### ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link
+### Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
+
+
+
+---
+
+
+### Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
 
 
 
