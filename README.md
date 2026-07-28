@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-27 12:31:43
+2026-07-28 11:55:49
 
 
 
-### Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable
-
-
-
----
-
-
-### Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available
+### NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework
 
 
 
 ---
 
 
-### Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git
+### Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
+
+
+
+---
+
+
+### Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
 
 
 
