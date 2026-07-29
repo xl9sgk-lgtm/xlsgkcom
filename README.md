@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-28 11:55:49
+2026-07-29 11:58:43
 
 
 
-### NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework
-
-
-
----
-
-
-### Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption
+### Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
 
 
 
 ---
 
 
-### Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw
+### Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
+
+
+
+---
+
+
+### 24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login
 
 
 
