@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-29 11:58:43
+2026-07-30 11:51:27
 
 
 
-### Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack
-
-
-
----
-
-
-### Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process
+### Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
 
 
 
 ---
 
 
-### 24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login
+### Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
+
+
+
+---
+
+
+### Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
 
 
 
