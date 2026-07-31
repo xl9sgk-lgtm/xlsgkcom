@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-07-30 11:51:27
+2026-07-31 12:16:58
 
 
 
-### Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads
-
-
-
----
-
-
-### Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory
+### DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware
 
 
 
 ---
 
 
-### Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape
+### ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories
+
+
+
+---
+
+
+### Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database
 
 
 
