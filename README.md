@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-01 12:16:24
+2026-08-02 12:19:20
 
 
 
-### Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk
-
-
-
----
-
-
-### HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm
+### Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
 
 
 
 ---
 
 
-### Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies
+### Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
+
+
+
+---
+
+
+### Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
 
 
 
