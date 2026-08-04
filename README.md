@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-03 12:24:33
+2026-08-04 11:59:05
 
 
 
-### Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes
-
-
-
----
-
-
-### Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites
+### 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
 
 
 
 ---
 
 
-### Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction
+### Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
+
+
+
+---
+
+
+### INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
 
 
 
