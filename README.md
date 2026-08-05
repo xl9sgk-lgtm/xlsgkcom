@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-04 11:59:05
+2026-08-05 11:53:59
 
 
 
-### 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users
-
-
-
----
-
-
-### Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
+### Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
 
 
 
 ---
 
 
-### INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws
+### Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
+
+
+
+---
+
+
+### Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
 
 
 
