@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-05 11:53:59
+2026-08-06 11:59:09
 
 
 
-### Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens
-
-
-
----
-
-
-### Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks
+### Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
 
 
 
 ---
 
 
-### Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access
+### OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes
+
+
+
+---
+
+
+### Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
 
 
 
