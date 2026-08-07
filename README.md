@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-06 11:59:09
+2026-08-07 11:43:46
 
 
 
-### Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures
-
-
-
----
-
-
-### OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes
+### New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts
 
 
 
 ---
 
 
-### Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt
+### Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs
+
+
+
+---
+
+
+### New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs
 
 
 
