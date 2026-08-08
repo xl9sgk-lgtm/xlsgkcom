@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-07 11:43:46
+2026-08-08 10:51:22
 
 
 
-### New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts
-
-
-
----
-
-
-### Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs
+### Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer
 
 
 
 ---
 
 
-### New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs
+### ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets
+
+
+
+---
+
+
+### UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data
 
 
 
