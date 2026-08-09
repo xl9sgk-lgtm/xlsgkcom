@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-08 10:51:22
+2026-08-09 10:58:17
 
 
 
-### Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer
-
-
-
----
-
-
-### ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets
+### Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
 
 
 
 ---
 
 
-### UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data
+### New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+
+
+
+---
+
+
+### Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
 
 
 
