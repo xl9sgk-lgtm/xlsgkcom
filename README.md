@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-10 11:07:39
+2026-08-11 11:00:32
 
 
 
-### Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers
-
-
-
----
-
-
-### New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens
+### Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
 
 
 
 ---
 
 
-### Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication
+### China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+
+
+
+---
+
+
+### ⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors
 
 
 
