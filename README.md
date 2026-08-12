@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-11 11:00:32
+2026-08-12 11:19:24
 
 
 
-### Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development
-
-
-
----
-
-
-### China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw
+### Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
 
 
 
 ---
 
 
-### ⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors
+### Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing
+
+
+
+---
+
+
+### Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client
 
 
 
