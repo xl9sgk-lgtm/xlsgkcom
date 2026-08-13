@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-12 11:19:24
+2026-08-13 11:22:39
 
 
 
-### Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack
-
-
-
----
-
-
-### Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing
+### Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
 
 
 
 ---
 
 
-### Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client
+### 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
+
+
+
+---
+
+
+### OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning
 
 
 
