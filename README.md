@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-08-13 11:22:39
+2026-08-14 11:20:01
 
+
+
+### Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
+
+
+
+---
 
 
 ### Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
@@ -67,13 +74,6 @@
 
 
 ### 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
-
-
-
----
-
-
-### OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning
 
 
 
