@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-17 10:15:27
+2026-08-18 10:10:46
 
 
 
-### Attackers Exploit SharePoint Authentication Bypass After Public PoC Release
-
-
-
----
-
-
-### Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor
+### Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
 
 
 
 ---
 
 
-### 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One
+### Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection
+
+
+
+---
+
+
+### Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
 
 
 
