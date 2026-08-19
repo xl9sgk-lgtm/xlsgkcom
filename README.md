@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-18 10:10:46
+2026-08-19 10:13:42
 
 
 
-### Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects
-
-
-
----
-
-
-### Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection
+### Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
 
 
 
 ---
 
 
-### Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads
+### Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
+
+
+
+---
+
+
+### Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000
 
 
 
