@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-19 10:13:42
+2026-08-20 10:12:13
 
 
 
-### Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps
-
-
-
----
-
-
-### Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets
+### Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
 
 
 
 ---
 
 
-### Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000
+### OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior
+
+
+
+---
+
+
+### SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
 
 
 
