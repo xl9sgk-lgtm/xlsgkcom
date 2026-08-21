@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-20 10:12:13
+2026-08-21 10:19:06
 
 
 
-### Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second
-
-
-
----
-
-
-### OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior
+### Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
 
 
 
 ---
 
 
-### SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs
+### Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
+
+
+
+---
+
+
+### ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More
 
 
 
