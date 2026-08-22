@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-21 10:19:06
+2026-08-22 10:10:01
 
 
 
-### Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads
-
-
-
----
-
-
-### Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts
+### 14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2
 
 
 
 ---
 
 
-### ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More
+### Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
+
+
+
+---
+
+
+### Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet
 
 
 
