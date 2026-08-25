@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-24 10:18:51
+2026-08-25 10:14:12
 
 
 
-### TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit
-
-
-
----
-
-
-### 14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2
+### Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
 
 
 
 ---
 
 
-### Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot
+### Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning
+
+
+
+---
+
+
+### ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More
 
 
 
