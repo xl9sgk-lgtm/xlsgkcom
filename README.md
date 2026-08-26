@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-25 10:14:12
+2026-08-26 10:20:36
 
 
 
-### Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt
-
-
-
----
-
-
-### Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning
+### U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
 
 
 
 ---
 
 
-### ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More
+### A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
+
+
+
+---
+
+
+### WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
 
 
 
