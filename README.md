@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-26 10:20:36
+2026-08-27 18:47:39
 
 
 
-### U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches
-
-
-
----
-
-
-### A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw
+### GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address
 
 
 
 ---
 
 
-### WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android
+### New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access
+
+
+
+---
+
+
+### CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs
 
 
 
