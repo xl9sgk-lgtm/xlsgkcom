@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-27 18:47:39
+2026-08-28 20:24:06
 
 
 
-### GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address
-
-
-
----
-
-
-### New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access
+### Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL
 
 
 
 ---
 
 
-### CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs
+### China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
+
+
+
+---
+
+
+### Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server
 
 
 
