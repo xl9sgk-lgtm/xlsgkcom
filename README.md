@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-28 20:24:06
+2026-08-29 15:33:33
 
 
 
-### Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL
-
-
-
----
-
-
-### China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access
+### Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network
 
 
 
 ---
 
 
-### Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server
+### Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
+
+
+
+---
+
+
+### Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication
 
 
 
