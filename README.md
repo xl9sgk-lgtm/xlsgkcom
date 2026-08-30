@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-08-29 15:33:33
+2026-08-30 14:06:32
 
+
+
+### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
+
+
+
+---
 
 
 ### Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network
@@ -67,13 +74,6 @@
 
 
 ### Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
-
-
-
----
-
-
-### Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication
 
 
 
