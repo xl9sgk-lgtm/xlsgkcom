@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-08-30 14:06:32
+2026-08-31 14:28:29
 
+
+
+### TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
+
+
+
+---
 
 
 ### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
@@ -67,13 +74,6 @@
 
 
 ### Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network
-
-
-
----
-
-
-### Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable
 
 
 
