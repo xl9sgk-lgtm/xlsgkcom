@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-08-31 14:28:29
+2026-09-01 13:55:15
 
 
 
-### TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor
-
-
-
----
-
-
-### Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE
+### North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
 
 
 
 ---
 
 
-### Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network
+### ⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More
+
+
+
+---
+
+
+### ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
 
 
 
