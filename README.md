@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-01 13:55:15
+2026-09-02 13:17:43
 
 
 
-### North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales
-
-
-
----
-
-
-### ⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More
+### Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
 
 
 
 ---
 
 
-### ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions
+### Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems
+
+
+
+---
+
+
+### 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
 
 
 
