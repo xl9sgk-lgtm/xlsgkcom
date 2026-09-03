@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-02 13:17:43
+2026-09-03 13:22:47
 
 
 
-### Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure
-
-
-
----
-
-
-### Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems
+### Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
 
 
 
 ---
 
 
-### 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds
+### Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
+
+
+
+---
+
+
+### Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
 
 
 
