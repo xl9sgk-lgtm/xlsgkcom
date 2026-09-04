@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-03 13:22:47
+2026-09-04 13:17:02
 
 
 
-### Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs
-
-
-
----
-
-
-### Fake Software Installers Disable Windows Update and Weaken Microsoft Defender
+### ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories
 
 
 
 ---
 
 
-### Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code
+### Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root
+
+
+
+---
+
+
+### BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory
 
 
 
