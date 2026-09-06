@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-05 13:06:32
+2026-09-06 13:21:03
 
 
 
-### Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters
-
-
-
----
-
-
-### PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution
+### Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
 
 
 
 ---
 
 
-### New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic
+### Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
+
+
+
+---
+
+
+### Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
 
 
 
