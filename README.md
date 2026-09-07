@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-06 13:21:03
+2026-09-07 13:30:17
 
+
+
+### Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
+
+
+
+---
+
+
+### Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
+
+
+
+---
 
 
 ### Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
-
-
-
----
-
-
-### Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials
-
-
-
----
-
-
-### Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code
 
 
 
