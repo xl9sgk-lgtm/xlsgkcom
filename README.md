@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-07 13:30:17
+2026-09-08 13:29:31
 
 
 
-### Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
-
-
-
----
-
-
-### Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner
+### PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
 
 
 
 ---
 
 
-### Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores
+### Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
+
+
+
+---
+
+
+### ⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More
 
 
 
