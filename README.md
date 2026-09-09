@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-08 13:29:31
+2026-09-09 13:36:46
 
 
 
-### PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
-
-
-
----
-
-
-### Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks
+### N-able N-central Pre-Auth RCE Flaw Exploited in the Wild
 
 
 
 ---
 
 
-### ⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More
+### Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution
+
+
+
+---
+
+
+### Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC
 
 
 
