@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-11 13:28:15
+2026-09-12 13:17:21
 
 
 
-### ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
-
-
-
----
-
-
-### Google Play Early Access Abused to Push Thousands of Deceptive Android Apps
+### GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure
 
 
 
 ---
 
 
-### Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE
+### Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks
+
+
+
+---
+
+
+### Claude Used to Automate Exploitation and Data Theft Across Multiple Victims
 
 
 
