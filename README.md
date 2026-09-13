@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-12 13:17:21
+2026-09-13 13:31:05
 
 
 
-### GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure
-
-
-
----
-
-
-### Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks
+### CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
 
 
 
 ---
 
 
-### Claude Used to Automate Exploitation and Data Theft Across Multiple Victims
+### When the Whole Company Adopts AI: What It Does to Your SOC
+
+
+
+---
+
+
+### OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
 
 
 
