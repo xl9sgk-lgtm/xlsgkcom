@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-09-13 13:31:05
+2026-09-14 13:35:39
 
+
+
+### Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
+
+
+
+---
 
 
 ### CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
@@ -67,13 +74,6 @@
 
 
 ### When the Whole Company Adopts AI: What It Does to Your SOC
-
-
-
----
-
-
-### OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers
 
 
 
