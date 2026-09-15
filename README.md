@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-14 13:35:39
+2026-09-15 13:36:55
 
 
 
-### Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data
-
-
-
----
-
-
-### CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV
+### New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
 
 
 
 ---
 
 
-### When the Whole Company Adopts AI: What It Does to Your SOC
+### 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
+
+
+
+---
+
+
+### Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
 
 
 
