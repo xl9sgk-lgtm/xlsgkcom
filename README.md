@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-15 13:36:55
+2026-09-16 13:31:34
 
 
 
-### New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing
-
-
-
----
-
-
-### 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
+### KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
 
 
 
 ---
 
 
-### Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports
+### Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
+
+
+
+---
+
+
+### BambooToken Malware Uses MQTT to Control Windows and Linux Systems
 
 
 
