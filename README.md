@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-16 13:31:34
+2026-09-17 13:37:32
 
 
 
-### KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens
-
-
-
----
-
-
-### Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists
+### Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution
 
 
 
 ---
 
 
-### BambooToken Malware Uses MQTT to Control Windows and Linux Systems
+### Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
+
+
+
+---
+
+
+### One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude
 
 
 
