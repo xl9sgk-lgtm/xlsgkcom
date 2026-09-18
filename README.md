@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-17 13:37:32
+2026-09-18 13:25:26
 
 
 
-### Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution
-
-
-
----
-
-
-### Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
+### Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
 
 
 
 ---
 
 
-### One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude
+### ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories
+
+
+
+---
+
+
+### Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
 
 
 
