@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-18 13:25:26
+2026-09-19 13:21:03
 
 
 
-### Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
-
-
-
----
-
-
-### ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories
+### Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
 
 
 
 ---
 
 
-### Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files
+### New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution
+
+
+
+---
+
+
+### Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
 
 
 
