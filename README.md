@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-19 13:21:03
+2026-09-20 13:34:11
 
 
 
-### Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
-
-
-
----
-
-
-### New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution
+### Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
 
 
 
 ---
 
 
-### Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
+### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+
+
+
+---
+
+
+### Identity Visibility in 2026: The Foundation of Identity Security
 
 
 
