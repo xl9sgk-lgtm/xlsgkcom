@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-21 13:43:01
+2026-09-22 13:40:17
 
 
 
-### Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
-
-
-
----
-
-
-### Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+### Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR
 
 
 
 ---
 
 
-### Identity Visibility in 2026: The Foundation of Identity Security
+### Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
+
+
+
+---
+
+
+### Google Fined €403 Million Over GDPR Violations Tied to Location Data
 
 
 
