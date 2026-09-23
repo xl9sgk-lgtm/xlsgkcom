@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-22 13:40:17
+2026-09-23 13:24:14
 
 
 
-### Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR
-
-
-
----
-
-
-### Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
+### Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
 
 
 
 ---
 
 
-### Google Fined €403 Million Over GDPR Violations Tied to Location Data
+### WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers
+
+
+
+---
+
+
+### Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
 
 
 
