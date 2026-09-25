@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-24 13:41:38
+2026-09-25 13:38:58
 
 
 
-### Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
-
-
-
----
-
-
-### A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
+### Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
 
 
 
 ---
 
 
-### MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key
+### ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories
+
+
+
+---
+
+
+### Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
 
 
 
