@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-25 13:38:58
+2026-09-26 13:42:57
 
 
 
-### Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions
-
-
-
----
-
-
-### ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories
+### Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
 
 
 
 ---
 
 
-### Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
+### PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence
+
+
+
+---
+
+
+### The SOC Doesn't Need to Start Over with Every Alert
 
 
 
