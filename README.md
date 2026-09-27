@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-26 13:42:57
+2026-09-27 14:02:14
 
 
 
-### Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
-
-
-
----
-
-
-### PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence
+### Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
 
 
 
 ---
 
 
-### The SOC Doesn't Need to Start Over with Every Alert
+### Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+
+
+
+---
+
+
+### Zero Trust for AI Agents Starts With Fixing Zero Visibility
 
 
 
