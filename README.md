@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-09-27 14:02:14
+2026-09-28 14:09:28
 
+
+
+### Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
+
+
+
+---
 
 
 ### Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
@@ -67,13 +74,6 @@
 
 
 ### Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
-
-
-
----
-
-
-### Zero Trust for AI Agents Starts With Fixing Zero Visibility
 
 
 
