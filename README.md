@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-28 14:09:28
+2026-09-29 14:26:46
 
 
 
-### Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
-
-
-
----
-
-
-### Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
+### Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
 
 
 
 ---
 
 
-### Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+### Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+
+
+
+---
+
+
+### IAM for AI agents: A Practical Enterprise Framework
 
 
 
