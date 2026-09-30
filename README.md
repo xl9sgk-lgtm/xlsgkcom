@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-29 14:26:46
+2026-09-30 14:12:14
 
 
 
-### Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
-
-
-
----
-
-
-### Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+### French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
 
 
 
 ---
 
 
-### IAM for AI agents: A Practical Enterprise Framework
+### New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+
+
+
+---
+
+
+### Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
 
 
 
