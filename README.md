@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-09-30 14:12:14
+2026-10-01 14:42:51
 
 
 
-### French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks
-
-
-
----
-
-
-### New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses
+### Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft
 
 
 
 ---
 
 
-### Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor
+### MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
+
+
+
+---
+
+
+### Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
 
 
 
