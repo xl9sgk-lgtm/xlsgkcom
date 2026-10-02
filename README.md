@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-01 14:42:51
+2026-10-02 14:29:34
 
 
 
-### Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft
-
-
-
----
-
-
-### MetaMask Security Incident Prompts Exit of Affected Ethereum Validators
+### Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
 
 
 
 ---
 
 
-### Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
+### Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+
+
+
+---
+
+
+### ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
 
 
 
