@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-02 14:29:34
+2026-10-03 13:55:51
 
 
 
-### Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
-
-
-
----
-
-
-### Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+### GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
 
 
 
 ---
 
 
-### ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories
+### Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign
+
+
+
+---
+
+
+### Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes
 
 
 
