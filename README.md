@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-04 14:33:08
+2026-10-05 14:26:37
 
+
+
+### ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
+
+
+
+---
+
+
+### China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
+
+
+
+---
 
 
 ### MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics
-
-
-
----
-
-
-### Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
-
-
-
----
-
-
-### The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations
 
 
 
