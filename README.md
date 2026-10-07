@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-06 15:02:41
+2026-10-07 14:44:17
 
 
 
-### Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account
-
-
-
----
-
-
-### ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits
+### Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
 
 
 
 ---
 
 
-### Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+### Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
+
+
+
+---
+
+
+### LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
 
 
 
