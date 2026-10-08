@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-07 14:44:17
+2026-10-08 14:52:56
 
 
 
-### Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
-
-
-
----
-
-
-### Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
+### Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
 
 
 
 ---
 
 
-### LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
+### Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+
+
+
+---
+
+
+### Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
 
 
 
