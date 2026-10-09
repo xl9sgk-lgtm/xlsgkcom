@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-08 14:52:56
+2026-10-09 15:01:27
 
 
 
-### Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
-
-
-
----
-
-
-### Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+### FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
 
 
 
 ---
 
 
-### Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
+### FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+
+
+
+---
+
+
+### ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
 
 
 
