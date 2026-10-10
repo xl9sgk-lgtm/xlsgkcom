@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-09 15:01:27
+2026-10-10 14:33:44
 
 
 
-### FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
-
-
-
----
-
-
-### FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails
+### Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
 
 
 
 ---
 
 
-### ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
+### FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
+
+
+
+---
+
+
+### P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
 
 
 
