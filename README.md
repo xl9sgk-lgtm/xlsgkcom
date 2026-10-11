@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-10 14:33:44
+2026-10-11 14:40:17
 
-
-
-### Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
-
-
-
----
-
-
-### FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
-
-
-
----
 
 
 ### P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
+
+
+
+---
+
+
+### The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
+
+
+
+---
+
+
+### Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
 
 
 
