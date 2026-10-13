@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-12 14:49:00
+2026-10-13 15:14:53
 
 
 
-### P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
-
-
-
----
-
-
-### The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't
+### Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies
 
 
 
 ---
 
 
-### Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+### ⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More
+
+
+
+---
+
+
+### Bring Your Own Agent: Your Employees' Assistants Are Already Logged In
 
 
 
