@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-13 15:14:53
+2026-10-14 13:39:36
 
 
 
-### Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies
-
-
-
----
-
-
-### ⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More
+### Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
 
 
 
 ---
 
 
-### Bring Your Own Agent: Your Employees' Assistants Are Already Logged In
+### OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
+
+
+
+---
+
+
+### Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
 
 
 
