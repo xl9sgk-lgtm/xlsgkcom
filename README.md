@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-14 13:39:36
+2026-10-15 13:25:31
 
 
 
-### Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
-
-
-
----
-
-
-### OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room
+### Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability
 
 
 
 ---
 
 
-### Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets
+### Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App
+
+
+
+---
+
+
+### Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages
 
 
 
