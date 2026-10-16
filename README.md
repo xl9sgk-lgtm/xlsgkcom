@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-15 13:25:31
+2026-10-16 13:18:09
 
 
 
-### Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability
-
-
-
----
-
-
-### Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App
+### Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
 
 
 
 ---
 
 
-### Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages
+### ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+
+
+
+---
+
+
+### Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
 
 
 
