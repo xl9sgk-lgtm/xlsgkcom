@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-16 13:18:09
+2026-10-17 13:13:15
 
 
 
-### Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
-
-
-
----
-
-
-### ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More
+### Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
 
 
 
 ---
 
 
-### Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads
+### Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
+
+
+
+---
+
+
+### UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing
 
 
 
