@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-17 13:13:15
+2026-10-18 13:17:39
 
+
+
+### MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+
+
+
+---
+
+
+### Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+
+
+
+---
 
 
 ### Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
-
-
-
----
-
-
-### Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
-
-
-
----
-
-
-### UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing
 
 
 
