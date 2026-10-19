@@ -55,8 +55,15 @@
 
 
 更新时间：
-2026-10-18 13:17:39
+2026-10-19 13:32:04
 
+
+
+### ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+
+
+
+---
 
 
 ### MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
@@ -67,13 +74,6 @@
 
 
 ### Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
-
-
-
----
-
-
-### Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
 
 
 
