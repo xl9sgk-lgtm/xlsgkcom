@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-19 13:32:04
+2026-10-20 13:34:55
 
 
 
-### ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
-
-
-
----
-
-
-### MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon
+### Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware
 
 
 
 ---
 
 
-### Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+### Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
+
+
+
+---
+
+
+### Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor
 
 
 
