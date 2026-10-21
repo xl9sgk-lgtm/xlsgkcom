@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-20 13:34:55
+2026-10-21 13:35:01
 
 
 
-### Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware
-
-
-
----
-
-
-### Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
+### PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
 
 
 
 ---
 
 
-### Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor
+### Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
+
+
+
+---
+
+
+### Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
 
 
 
