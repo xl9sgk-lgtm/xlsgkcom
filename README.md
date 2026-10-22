@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-21 13:35:01
+2026-10-22 13:37:48
 
 
 
-### PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
-
-
-
----
-
-
-### Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
+### China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
 
 
 
 ---
 
 
-### Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
+### Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
+
+
+
+---
+
+
+### LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor
 
 
 
