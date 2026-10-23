@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-22 13:37:48
+2026-10-23 13:36:10
 
 
 
-### China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
-
-
-
----
-
-
-### Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases
+### The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
 
 
 
 ---
 
 
-### LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor
+### Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+
+
+
+---
+
+
+### eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable
 
 
 
