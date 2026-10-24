@@ -55,25 +55,25 @@
 
 
 更新时间：
-2026-10-23 13:36:10
+2026-10-24 13:15:14
 
 
 
-### The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat
-
-
-
----
-
-
-### Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+### BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations
 
 
 
 ---
 
 
-### eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable
+### Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws
+
+
+
+---
+
+
+### Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions
 
 
 
